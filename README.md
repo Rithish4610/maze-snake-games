@@ -1,1 +1,1 @@
-# maze-snake-game
+# maze-snake-games
